@@ -1,0 +1,53 @@
+@media only screen and (width:500px) {
+    #Welcome {
+      background-color: lightblue;
+    }
+  }
+
+#appbar{
+    background-color: red;
+    height: 10%;
+    width: 100%;
+}
+#Welcome{
+    height: 100vh;
+    margin: auto;
+}
+#Heading{
+    margin-top: 20%;
+    margin-left: 45%;
+}
+.project-tile{
+    padding-top: 10%;
+}
+.mylink{
+    margin-top: 100%;
+    margin-left: 45%;
+    color: red;
+    height: 20px;
+    font-size: 20px;
+}
+.navbar {
+    background-color: red;
+    position: fixed;
+    top: 0px;
+    z-index: 10000;
+   position: fixed;
+   top: 0px;
+   width: 100%;
+   overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+.navbar-brand{
+    color: black;
+}
+#project{
+    height: 500px;
+    background-color:grey;
+}
+#project2{
+    height: 500px;
+    background-color: chocolate;
+}
